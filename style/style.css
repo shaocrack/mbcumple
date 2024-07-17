@@ -309,7 +309,7 @@ body {
   .te2
   {
     position: absolute; /* Para poder moverlo usando top y left */
-    top: 600%; /* Posición inicial en Y */
+    top: 620%; /* Posición inicial en Y */
     left: 10px;
     text-align: justify; /* Posición inicial en X */
 
